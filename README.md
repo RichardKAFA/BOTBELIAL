@@ -40,7 +40,7 @@ INSTALAÇÃO:
 
 ## CARACTERÍSTICAS  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29px">
 
-| D4RK BOT      |                   Característica        |
+| BOT   𝕭𝐄𝐋𝐈𝜜𝐋 |            Característica        |
 | :-----------: | :------------------------------: |
 |       ✅       | Criador de adesivos                  |
 |       ✅       | Nulis                            |
@@ -77,7 +77,7 @@ INSTALAÇÃO:
 |       ✅       | 18+.                             |
 |       ✅       | MAIS recursos em breve 🍂        |
 
-DARKZIN DOMINA 🐦❤️
+ 𝕭𝐄𝐋𝐈𝜜𝐋 DOMINA 🐦❤️
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
 
